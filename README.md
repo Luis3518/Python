@@ -1,2 +1,2 @@
 # Python
-Ejercicios basicos de python
+Ejercicios resueltos de python propuestos en https://www.sololearn.com/ 
